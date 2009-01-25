@@ -1,0 +1,67 @@
+Fri Jun 27 15:45:32 PDT 2008  Kevin Turner <kevin@janrain.com>
+  tagged release-2.2.1
+
+Fri Jun 27 15:45:05 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * Set version number to 2.2.1
+
+Wed Jun 25 16:59:19 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * TrustRoot.checkSanity: handle trust roots that do not parse gracefully
+
+Wed Jun 25 14:56:20 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * Add 206 status check to openid.consumer.discover
+
+Wed Jun 25 14:54:23 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * Text-flow in README
+
+Wed Jun 25 14:35:13 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * More explicit message when no ElementTree library can be imported
+
+Wed Jun 25 14:01:39 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * admin/gettlds.py: added script to get TLDs from IANA
+
+Wed Jun 25 14:00:15 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * server.trustroot._top_level_domains: updated
+
+Tue Jun 24 14:35:10 PDT 2008  chowells@janrain.com
+  * openid.server.server.CheckIdRequest: change __str__ to __repr__ for better debugging output
+
+Mon Apr 21 14:21:27 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * Signatory.sign: EncodingError takes a response object, add an explanation attribute
+
+Fri Jun 13 10:57:05 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * etxrd.getCanonicalID: case-insensitive comparsions, patch from =wil
+  
+  1. There should only be a single CanonicalID in each XRD (in the latest XRI
+  resolution spec), so I made it use the first CID found instead of the last.
+  
+  2. Use case-insensitive comparison when comparing CanonicalIDs.
+
+Wed Jun 11 15:28:07 PDT 2008  Kevin Turner <kevin@janrain.com>
+  * Accept response code 206 from fetcher results.  Fixes #260
+
+Wed Jun 11 11:29:00 PDT 2008  cygnus@janrain.com
+  * Move trustroot test data file to data/ directory
+
+Wed Jun 11 11:04:31 PDT 2008  cygnus@janrain.com
+  * Extension.getExtensionArgs: update docstring
+
+Wed Jun 11 11:03:50 PDT 2008  cygnus@janrain.com
+  * openid.server.trustroot._parseURL: fail to parse trust roots with non-ASCII characters in path or hostname
+
+Tue Jun 10 16:43:30 PDT 2008  http://j3h.us/
+  * Better output for test failures for urinorm
+
+Tue Jun 10 16:43:14 PDT 2008  http://j3h.us/
+  * whitespace
+
+Tue Jun 10 16:43:09 PDT 2008  http://j3h.us/
+  * whitespace
+
+Tue Jun 10 16:42:51 PDT 2008  http://j3h.us/
+  * whitespace
+
+Tue Jun 10 16:42:22 PDT 2008  http://j3h.us/
+  * Reject URIs with illegal characters in urinorm
+
+Fri Jun  6 15:51:40 PDT 2008  cygnus@janrain.com
+  tagged release-2.2.0

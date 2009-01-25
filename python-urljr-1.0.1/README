@@ -1,0 +1,24 @@
+urljr
+-----
+
+URL-related utilites from JanRain, Inc.
+
+This package contains the "fetchers" module, which provides a common
+interface to urllib2 and curl for making HTTP requests.
+
+Dependencies:
+
+ * python (version 2.2 or better)
+
+
+Recommended:
+
+ * PycURL - http://pycurl.sourceforge.net/
+   
+   PycURL offers more protection when fetching URLs from untrusted sources,
+   e.g. checking the server's SSL certificate, limiting the number of
+   redirects it will follow, etc.
+
+
+Please send us your questions, comments, patches, and bug reports at
+dev@lists.openidenabled.com.

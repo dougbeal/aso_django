@@ -1,0 +1,26 @@
+#!/usr/bin/env python
+
+import sys
+import os.path
+
+def fixpath():
+    try:
+        this_file = __file__
+    except NameError:
+        this_file = sys.argv[0]
+
+    this_dir = os.path.dirname(
+        os.path.realpath(
+        os.path.normpath(this_file)
+        ))
+
+    repo_root_dir = os.path.dirname(this_dir)
+
+    if repo_root_dir not in sys.path:
+        print "putting %s in sys.path" % (repo_root_dir,)
+        sys.path.insert(0, repo_root_dir)
+
+if __name__ == '__main__':
+    fixpath()
+    from urljr.test import helper, test_all
+    helper.runAsMain(test_all)
