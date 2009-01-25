@@ -1,3 +1,5 @@
-import os
+import sys
 
-execfile( os.environ['HOME'] + '/src/aso_django.git/path.py')
+sys.path += [os.environ['HOME'] + '/aso_django']
+import aso_django
+
