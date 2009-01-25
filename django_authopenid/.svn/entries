@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="96"
+   name=""
+   committed-date="2008-09-28T13:39:49.190777Z"
+   url="http://django-authopenid.googlecode.com/svn/trunk/django_authopenid"
+   last-author="bchesneau"
+   kind="dir"
+   uuid="1ec3bcdb-543e-0410-a277-4fb868cae5e8"
+   repos="http://django-authopenid.googlecode.com/svn"
+   revision="97"/>
+<entry
+   committed-rev="95"
+   name="admin.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-24T10:10:25.966994Z"
+   checksum="3a8d8c44a4070ad46a7545b3bdd25d15"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="79"
+   name="middleware.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T13:36:42.682558Z"
+   checksum="a9dada44caf6d224abca532033cf4c88"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="96"
+   name="util.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-09-28T13:39:49.190777Z"
+   checksum="db33725d6fa417f6451936daa894207c"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="96"
+   name="views.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-09-28T13:39:49.190777Z"
+   checksum="c3cdf254286a4acc99af7904db970f77"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="58"
+   name="__init__.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-05-26T20:04:02.104154Z"
+   checksum="3bbb5a8aef5f52387b8e2b2a62f74b47"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="78"
+   name="mimeparse.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T13:32:30.339059Z"
+   checksum="1818a1ca83497e5d862bf244794520c2"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="95"
+   name="models.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-24T10:10:25.966994Z"
+   checksum="db2e187dca254cbc052ecd2bd7c8d63f"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="93"
+   name="urls.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-24T09:56:26.038864Z"
+   checksum="79142746eec258a7439501a5cc9e4180"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="96"
+   name="forms.py"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-09-28T13:39:49.190777Z"
+   checksum="c33d0bfa9c157b4583d4c1dfecbcf8ad"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   name="templates"
+   kind="dir"/>
+</wc-entries>

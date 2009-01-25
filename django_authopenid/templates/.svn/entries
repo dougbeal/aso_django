@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="94"
+   name=""
+   committed-date="2008-08-24T10:01:26.332967Z"
+   url="http://django-authopenid.googlecode.com/svn/trunk/django_authopenid/templates"
+   last-author="bchesneau"
+   kind="dir"
+   uuid="1ec3bcdb-543e-0410-a277-4fb868cae5e8"
+   repos="http://django-authopenid.googlecode.com/svn"
+   revision="97"/>
+<entry
+   name="authopenid"
+   kind="dir"/>
+</wc-entries>

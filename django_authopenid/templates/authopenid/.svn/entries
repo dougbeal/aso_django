@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="94"
+   name=""
+   committed-date="2008-08-24T10:01:26.332967Z"
+   url="http://django-authopenid.googlecode.com/svn/trunk/django_authopenid/templates/authopenid"
+   last-author="bchesneau"
+   kind="dir"
+   uuid="1ec3bcdb-543e-0410-a277-4fb868cae5e8"
+   repos="http://django-authopenid.googlecode.com/svn"
+   revision="97"/>
+<entry
+   committed-rev="80"
+   name="changepw.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T14:14:46.791346Z"
+   checksum="25429e0f25a340bdea210982d421a3f3"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="80"
+   name="changeemail.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T14:14:46.791346Z"
+   checksum="23c34cd4fa0fac22c09cabf7727a3d58"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="75"
+   name="confirm_email.txt"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-07-05T13:35:09.442105Z"
+   checksum="915ef228a48a58105cfe5efec92a6f5b"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="75"
+   name="sendpw.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-07-05T13:35:09.442105Z"
+   checksum="66f8aa2f16fb58a44d53ebe2b332ffbe"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="80"
+   name="settings.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T14:14:46.791346Z"
+   checksum="5c99ef393d17e3e4fc167c43e116cff7"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="75"
+   name="delete.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-07-05T13:35:09.442105Z"
+   checksum="4c5f21fdeabc2836bd2474aa528a769c"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="75"
+   name="sendpw_email.txt"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-07-05T13:35:09.442105Z"
+   checksum="4af325d91f48c468606a99d4090628ec"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="75"
+   name="changeopenid.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-07-05T13:35:09.442105Z"
+   checksum="933d53484c636a65498e4777865dcc60"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:46.000000Z"/>
+<entry
+   committed-rev="80"
+   name="signup.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T14:14:46.791346Z"
+   checksum="34a066d6b1640853de2c448d2427992a"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:47.000000Z"/>
+<entry
+   committed-rev="80"
+   name="signin.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T14:14:46.791346Z"
+   checksum="6c7122dcc11e1e9e3b6ed58fc90e711b"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:47.000000Z"/>
+<entry
+   committed-rev="2"
+   name="failure.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2007-11-09T16:30:59.714840Z"
+   checksum="6c3dde43d07cbfd6bb973b4263fad25c"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:47.000000Z"/>
+<entry
+   committed-rev="94"
+   name="complete.html"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-24T10:01:26.332967Z"
+   checksum="8c515423ce94c23b4c754760fb22c9f5"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:47.000000Z"/>
+<entry
+   committed-rev="78"
+   name="yadis.xrdf"
+   text-time="2009-01-24T22:31:47.000000Z"
+   committed-date="2008-08-09T13:32:30.339059Z"
+   checksum="12a92bdf7099b5d7fed663314a3371f4"
+   last-author="bchesneau"
+   kind="file"
+   prop-time="2009-01-24T22:31:47.000000Z"/>
+</wc-entries>
